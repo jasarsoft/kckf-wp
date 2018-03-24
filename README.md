@@ -1,4 +1,4 @@
-### Kultirni Centar "Kralj Fahd" Mostar <br> [Wordpress](http://kckfmostar.com/kursevi/wordpress/1)
+### [Wordpress](http://kckfmostar.com/kursevi/wordpress/1)<br> Kultirni Centar "Kralj Fahd" Mostar
 #### **O KURSU**<br>
 Cilj kursa je da se kandidati kroz praktičan rad upoznaju sa Wordpress sistemom za upravljanje i objavu sadržaja (engl. CMS - Content Management System) na Internetu kreirajući web stranice ili osobne blogove. Wordpress CMS platforma je danas najpopularniji sistem za upravljanje sadržajem preko 15 miliona stranica te, kao potpuno besplatan system, pruža neprocjenjive pogodnosti pri kreiranju Internet sadržaja. Učesnici će na kursu steći potrebne vještine i kompetencije kako bi se mogli samostalno upustiti u svijet Internet prezentacija te na kraju kursa bili osposobljeni kreirati vlasitu prezentaciju na Internetu.
 
