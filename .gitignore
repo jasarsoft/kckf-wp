@@ -17,3 +17,5 @@ wp-content/plugins/hello.php
 /sitemap.xml.gz
 
 wordpress-4.9.4.zip
+wp-content/themes/onetone.2.4.8.zip
+wp-content/plugins/jetpack/.svnignore
